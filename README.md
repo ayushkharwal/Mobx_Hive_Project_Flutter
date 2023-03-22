@@ -8,8 +8,6 @@ https://user-images.githubusercontent.com/64960113/226836338-7b473c86-2728-4931-
 
 ## Features
 * Add a new person to the list
-* Edit a person's name or age
-* Delete a person from the list
 * View a list of all persons
 
 ## State Management
